@@ -1,12 +1,13 @@
 {
-  "name": "PRANIX zone",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "pranixzone.aternos.me",
-    "port": 43503,
+    "port": 43504,
     "version": "1.21.11"
   },
   "position": {
@@ -29,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "follow to Pranix_7",
-        "i'm new player!",
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 2000,
+    "max-reconnect-delay": 20000,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
