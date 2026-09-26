@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PRANIX zone",
+    "username": "PerzaanLive",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "pranixzone.aternos.me",
-    "port":43504,
-    "version": "1.21.1"
+    "port": 43503,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
