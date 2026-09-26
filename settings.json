@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "follow to Pranix_7",
+        "i'm new player!",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "max-reconnect-delay": 2000,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
